@@ -1,2 +1,4 @@
 This is a text file for the Devops Git Repo
 This file is being used for testing
+
+TESTING FOR PUSH COMMAND USING COMMAND LINE
